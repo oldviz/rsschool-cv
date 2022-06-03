@@ -1,1 +1,1 @@
-https://oldviz.github.io/rsschool-cv/cv
+https://oldviz.github.io/rsschool-cv/
