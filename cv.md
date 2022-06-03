@@ -1,1 +1,3 @@
-# OldVis CV
+OldVis CV
+Contacts:
+    mail: oldvis@ya.ru
