@@ -30,8 +30,8 @@ function square(a) {
 ```
 
 ## Projects:
-[CV#1. Markdown & Git](https://oldviz.github.io/rsschool-cv/)
-[CV#2. HTML, CSS & Git Basics](https://oldviz.github.io/rsschool-cv/cv)
+  - [CV#1. Markdown & Git](https://oldviz.github.io/rsschool-cv/)
+  - [CV#2. HTML, CSS & Git Basics](https://oldviz.github.io/rsschool-cv/cv)
 
 ## Education:
   - 1995-1999 Gorlovka college of Donetsk National University - Computer Science, Computer Technology, IT Technologies - Junior specialist.
