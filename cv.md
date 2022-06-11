@@ -1,6 +1,5 @@
 if you replace three letters in the word Cats, you get the word Code (c) Viss o' the Cat
-
---
+##
 
 ## Dmitry V. Zhidkov
 
