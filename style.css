@@ -1,0 +1,154 @@
+@font-face {
+  font-family: 'Roboto Mono';
+  src: url("assets/fonts/RobotoMono-Regular.ttf");
+}
+  
+@media (max-width: 768px) {
+  .section {
+    width: 100%;
+  }
+}
+
+* {
+  box-sizing: border-box;
+  font-family: 'Roboto Mono';
+}
+
+/* Header and Navigation*/
+.header {
+  background: #683114;
+  border-radius: 0px 0px 30px 30px;
+}
+
+.nav-list {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  list-style: none;
+}
+
+.nav-link {
+  padding: 0 0px;
+  line-height: 24px;
+  font-size: 24px;
+  font-weight: 800;
+  color: #F9CF9B;
+  text-decoration: none;
+}
+
+/* Main Page */
+.link {
+  color: #683114;
+  text-decoration:none;
+}
+
+a:hover {
+  color: white;
+  transition: 0.3s;
+}
+
+.body-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 100vh;
+  max-width: 1920px;
+  margin: 0 auto;
+  padding: 0;
+  background: #F9CF9B;
+}
+
+.main {
+  display: flex;
+  flex-direction:row;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.left-block {
+  display: flex;
+  flex-direction: column;
+  width: 350px;
+  padding: 20px;
+  border: 5px solid #683114;
+  border-radius: 30px;
+}
+
+.section-title {
+  align-self: center;
+}
+
+.avatar {
+  align-self: center;
+  width: 80%;
+  image-rendering:optimizeQuality;
+}
+
+#about {
+  width: 100%;
+}
+
+#contacts {
+  width: 100%;
+}
+
+.right-block {
+  display: flex;
+  flex-wrap: wrap;
+  width: 70%;
+  padding: 10px;
+}
+
+pre {
+  margin: 0;
+}
+
+section {
+  width: 50%;
+  padding: 10px;
+}
+
+h2 {
+  background: linear-gradient(to left, #F9CF9B, #683114 200%);
+  background-position: 0 100%;
+  background-size: 100% 3px;
+  background-repeat:repeat-x;
+}
+
+/* Footer */
+.footer {
+  display: flex;
+  vertical-align: middle;
+  justify-content: space-evenly;
+  line-height: 32px;
+  font-size: 24px;
+  font-weight: 400;
+  color: #F9CF9B;
+  background: #683114;
+  border-radius: 30px 30px 0px 0px;
+  padding: 5px;
+}
+
+a.gh-image {
+  background: url("assets/img/logo-github2.png");
+  display: block;
+  width: 32px;
+  height: 32px;
+}
+
+a.gh-image:hover {
+  background-position: 0 -32px;
+  transition: 0s;
+}
+
+a.rs-image {
+  background: url("assets/img/logo-rsschool2.png");
+  display: block;
+  width: 89px;
+  height: 32px;
+}
+
+a.rs-image:hover {
+  background-position: 0 -32px;
+  transition: 0s;
+}
