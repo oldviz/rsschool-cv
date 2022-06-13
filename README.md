@@ -1,2 +1,2 @@
-https://oldviz.github.io/test/cv/<br>
-https://oldviz.github.io/test/cv/cv
+https://oldviz.github.io/rsschool-cv/cv<br>
+https://oldviz.github.io/rsschool-cv/
