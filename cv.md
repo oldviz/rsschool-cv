@@ -38,4 +38,4 @@ function square(a) {
   
 
 ## English:
-A2
+A2: Pre-Intermediate
